@@ -9036,6 +9036,9 @@ a.text-dark:hover {
   opacity: 0;
   background-color: rgba(26, 188, 156, 0.9);
 }
+.porfoliio .portfolio-item-title {
+}
+
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
 }
