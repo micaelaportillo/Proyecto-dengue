@@ -9159,7 +9159,7 @@ form .row:first-child .floating-label-form-group {
 
 #about {
   /* The image used */
-  background-image: url("/assets/img/micaymarga.jpg");
+  background-image: url("https://github.com/micaelaportillo/Proyecto-dengue/blob/master/assets/img/micaymarga.jpg?raw=true");
   position: relative;
   top: -95px;
   /* Create the parallax scrolling effect */
